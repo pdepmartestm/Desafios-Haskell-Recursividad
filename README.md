@@ -2,6 +2,8 @@
 
 ## Desafío de listas infinitas, recursividad y evaluación diferida. 
 
+![](cafe-virtual.jpg)
+
 Propuestos en clase 21/4. Premio virtual a las mejores soluciones. Hay tiempo hasta martes 28/4 00:00hs
 
 1. Buscar el mayor número primo posible.
